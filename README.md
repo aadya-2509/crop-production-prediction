@@ -26,8 +26,10 @@ The dataset contains:
 5. Model Evaluation
 
 ## 📈 Results
-- MAE: 39.77
-- RMSE: 87.58
+- MAE: 23.20
+- RMSE: 60.42
+
+The model performance improved after applying One-Hot Encoding using pandas get_dummies().
 
 ## 💡 Conclusion
 The model demonstrates how machine learning can be applied to agricultural data for yield prediction. Further improvements can be made using larger datasets and advanced models.
